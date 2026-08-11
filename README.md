@@ -70,3 +70,4 @@ Changed DB_HOST to postgres-service.
 - TLS
 - HA database
 - Backup strategy
+
